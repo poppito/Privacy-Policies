@@ -15,7 +15,7 @@ By using  this app, the user agrees to abide by the privacy policy as described 
 
 This app collects crash log information and analytics within the app to measure app performance and ensure features work well. This information does not identify the user or use any personalised information.
 
-This app does not collect, store or transmit any other application or user data from the user's device to anywhere external to the device.
+This app does not collect, store or transmit any other application or user data from the user's device to anywhere external to the device. The app generates a non user identifiable UUID which is used to intialise notifications, which can be removed or disabled anytime by the user.
 
 In the event this functionality does get enabled, this particular privacy policy will be update to reflect it.
 
