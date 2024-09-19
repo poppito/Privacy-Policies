@@ -15,7 +15,7 @@ This app does not collect, store or transmit any application or user data from t
 
 In the event this functionality does get enabled, this particular privacy policy will be update to reflect it.
 
-No information is collected by the manufacturer of this app from the user's phone, no information is collected, transmitted or provided to any third parties in the process of the usage of this app by the user.
+No information is collected by the manufacturer of this app from the user's phone, no information is collected, transmitted or provided to any third parties in the process of the usage of this app by the user. The app generates a non user identifiable UUID which is used to intialise notifications, which can be removed or disabled anytime by the user.
 
 Any usage information that is collected by the respective distributing App stores is in addition and is not managed by the manufacturer of this app.
 
